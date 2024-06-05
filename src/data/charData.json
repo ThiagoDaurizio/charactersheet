@@ -1,0 +1,203 @@
+{
+  "background": {
+    "name": "Faldon Wolfclaw",
+    "classe": "Ranger",
+    "level": 1,
+    "lore": {
+      "label": "background",
+      "body": "Faldon Wolfclaw é um ranger determinado a proteger sua tribo e a acabar com a tirania da Ordem da Chama Prateada. Marcado por uma maldição e rejeitado espiritualmente, ele luta não apenas contra seus inimigos externos, mas também contra as consequências de suas próprias decisões e a traição daqueles que pensou serem aliados.",
+      "bodyFull": [
+        "Faldon Wolfclaw nasceu e cresceu nas florestas densas e antigas das proximidades de Herandia, uma terra do norte onde sua tribo de druidas vivia em harmonia com a natureza. A tribo de Faldon sempre seguiu práticas druídicas, honrando os espíritos da floresta e os deuses primitivos que acreditavam proteger suas terras.",
+        "No entanto, as terras de Herandia eram fortemente influenciadas pela Ordem da Chama Prateada, uma ordem de clérigos extremistas que seguiam Avandra, conhecida como The Purgeress Flame. A Ordem via qualquer prática religiosa que não fosse a adoração de Avandra como uma heresia que precisava ser purgada pelo fogo. Eles acreditavam firmemente que estavam trazendo a luz e a ordem ao mundo, mas seus métodos eram cruéis e impiedosos.",
+        "A vida de Faldon e de sua tribo tornou-se uma luta constante pela sobrevivência. A Ordem da Chama Prateada caçava incessantemente sua tribo, que era forçada a se esconder nas profundezas das florestas para escapar da captura e da execução.",
+        "Faldon, no entanto, não podia aceitar essa vida de medo e fuga. Ele acreditava que deveria haver uma maneira de combater a tirania da Ordem e proteger sua tribo. Determinado a buscar ajuda, Faldon partiu em uma jornada perigosa em busca de aliados.",
+        "Foi durante essa jornada que Faldon encontrou Mistar'ah, uma híbrida de Dryad e Demônia. Ela se ofereceu para ajudar Faldon a resgatar os membros de sua tribo que haviam sido capturados pela Ordem da Chama Prateada. Desesperado e sem outras opções, Faldon aceitou a ajuda de Mistar'ah.",
+        "Com a ajuda de Mistar'ah, Faldon conseguiu resgatar seus aliados antes que fossem levados para a capital para serem queimados em praça pública. No entanto, a ajuda de Mistar'ah veio com um preço alto. Ela marcou Faldon com um símbolo ancestral em sua mão, um ato de repulsa contra os deuses primitivos que sua tribo seguia.",
+        "Essa marca não era apenas um símbolo; ela carregava uma maldição. Faldon agora era rejeitado pelos espíritos e deuses primitivos de sua tribo, uma desavença que Mistar'ah havia cultivado por razões desconhecidas. A marca em sua mão não apenas o isolava espiritualmente, mas também servia como um lembrete constante da traição e do preço de sua salvação."
+      ]
+    },
+    "aligment": {
+      "label": "aligment",
+      "body": "Lawful Neutral"
+    },
+    "past": {
+      "label": "past",
+      "body": "Outlander"
+    },
+    "languages": {
+      "label": "languages",
+      "body": "Common, Elvish, Sylvan"
+    },
+    "traits": [
+      {
+        "label": "apperance",
+        "body": "Cabelos pretos, olhos cinzas, Pele Pálida, possui uma sicatriz ancestral na mão esquerda"
+      },
+      {
+        "label": "personality traits",
+        "body": "Centrado, Pragmático e Levemente ácido num tom sarcástico"
+      },
+      {
+        "label": "ideals",
+        "body": "Recuperar sua honra com seus ancestrais por ter sido marcado pela Marca de Minar'ah"
+      },
+      {
+        "label": "bonds",
+        "body": "Profundamente ligado à sua tribo e à memória de seus ancestrais."
+      },
+      {
+        "label": "flaws",
+        "body": "Desconfia de cidades e da civilização, preferindo a solidão das florestas."
+      }
+    ]
+  },
+  "racial": {
+    "name": "Half-Elf",
+    "traits": [
+      {
+        "name": "Fey Ancestry",
+        "description": "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+      },
+      {
+        "name": "Darkvision",
+        "description": "Thanks to your elven heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+      },
+      {
+        "name": "Skill Versatility (General)",
+        "description": "You gain proficiency in two skills of your choice."
+      }
+    ],
+    "primaryAttribute": {
+      "label": "cha",
+      "value": 2
+    },
+    "secondariesAttributes": [
+      {
+        "label": "dex",
+        "valeu": 1
+      },
+      {
+        "label": "wis",
+        "value": 1
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "label": "str",
+      "value": 14
+    },
+    {
+      "label": "dex",
+      "value": 16
+    },
+    {
+      "label": "con",
+      "value": 13
+    },
+    {
+      "label": "int",
+      "value": 12
+    },
+    {
+      "label": "wis",
+      "value": 14
+    },
+    {
+      "label": "cha",
+      "value": 12
+    }
+  ],
+  "skills": [
+    {
+      "label": "Acrobatics",
+      "learned": true,
+      "attributeId": "dex"
+    },
+    {
+      "label": "Animal Handling",
+      "learned": false,
+      "attributeId": "wis"
+    },
+    {
+      "label": "Arcana",
+      "learned": false,
+      "attributeId": "int"
+    },
+    {
+      "label": "Athletics",
+      "learned": true,
+      "attributeId": "str"
+    },
+    {
+      "label": "Deception",
+      "learned": false,
+      "attributeId": "cha"
+    },
+    {
+      "label": "History",
+      "learned": false,
+      "attributeId": "int"
+    },
+    {
+      "label": "Insight",
+      "learned": true,
+      "attributeId": "wis"
+    },
+    {
+      "label": "Intimidation",
+      "learned": false,
+      "attributeId": "cha"
+    },
+    {
+      "label": "Investigation",
+      "learned": true,
+      "attributeId": "int"
+    },
+    {
+      "label": "Medicine",
+      "learned": false,
+      "attributeId": "wis"
+    },
+    {
+      "label": "Nature",
+      "learned": true,
+      "attributeId": "int"
+    },
+    {
+      "label": "Perception",
+      "learned": true,
+      "attributeId": "wis"
+    },
+    {
+      "label": "Perfomance",
+      "learned": false,
+      "attributeId": "cha"
+    },
+    {
+      "label": "Persuasion",
+      "learned": false,
+      "attributeId": "cha"
+    },
+    {
+      "label": "Religion",
+      "learned": false,
+      "attributeId": "int"
+    },
+    {
+      "label": "Sleight of Hand",
+      "learned": false,
+      "attributeId": "dex"
+    },
+    {
+      "label": "Stealth",
+      "learned": true,
+      "attributeId": "dex"
+    },
+    {
+      "label": "Survival",
+      "learned": true,
+      "attributeId": "wis"
+    }
+  ]
+}
